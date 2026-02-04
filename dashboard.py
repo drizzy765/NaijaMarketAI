@@ -86,7 +86,7 @@ with col1:
     plt.ylabel('Price (NGN)')
     plt.grid(True)
     plt.xticks(rotation=45)
-    st.pyplot(fig)
+    st.pyplot(fig, use_container_width=False)
 
 with col2:
     st.subheader("Statistics")
