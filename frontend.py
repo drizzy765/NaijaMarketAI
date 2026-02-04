@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 from datetime import datetime, timedelta
 
 # --- CONFIGURATION ---
-API_BASE_URL = "http://localhost:8000"
+API_BASE_URL = "https://naijamarketai-1.onrender.com"
 
 def plot_pro_chart(history_dates, history_prices, item_name, predicted_price=None):
     """Creates a Financial-Style interactive chart with history + prediction."""
