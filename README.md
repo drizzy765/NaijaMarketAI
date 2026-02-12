@@ -8,6 +8,7 @@ The project features a **Multi-Model AI Engine** that selects the best algorithm
 
 ---
 
+![live link](https://naijamarketai-dsyhazpefrewq54rvbtq8x.streamlit.app/)
 ## Key Features
 
 * **Surgical Data Cleaning:** A custom pipeline that corrects historical unit errors (e.g., the 2016 "Yam Cliff" and 2020 "Garri Spike") using economic heuristics.
