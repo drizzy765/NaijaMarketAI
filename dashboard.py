@@ -5,7 +5,7 @@ import seaborn as sns
 import os
 
 # Set page config
-st.set_page_config(page_title="Naija Market Analysis Dashboard", layout="wide")
+st.set_page_config(page_title="Naija Market Analysis Dashboard NG", layout="wide")
 
 st.title("🇳🇬 Naija Market Food Price Analysis")
 st.markdown("Interactive dashboard to explore food price trends in Nigeria.")
