@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Production-green) ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red) ![Docker](https://img.shields.io/badge/Docker-Containerized-blue) ![License](https://img.shields.io/badge/License-MIT-grey)
 
+
 **AgroPulse** is a machine learning system designed to analyze and predict food inflation drivers in Nigeria. By leveraging 12 years of historical market data (2012–2023), it identifies the mathematical relationship between fuel prices, transport costs, and staple food prices.
 
 The project features a **Multi-Model AI Engine** that selects the best algorithm for each commodity, wrapped in a production-ready **FastAPI Microservice** and an interactive **Streamlit Dashboard**.
